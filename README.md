@@ -6,7 +6,7 @@ El programa solicita al usuario un mensaje, una clave y un vector de inicializac
 
 ---
 
-## 🚀 Características
+## Características
 
 - Soporta **DES (56 bits efectivos)**, **3DES (168 bits efectivos)** y **AES-256 (256 bits)**.
 - Ajusta automáticamente la longitud de claves e IV:
@@ -27,7 +27,7 @@ El programa solicita al usuario un mensaje, una clave y un vector de inicializac
 
 ---
 
-## 📦 Requisitos
+## Requisitos
 
 - Python 3.8+
 - Librería [PyCryptodome](https://www.pycryptodome.org/)
